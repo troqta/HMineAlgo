@@ -1,0 +1,7 @@
+Time,Event context,Component,Event name,Description,Origin,IP address
+"3/11/18, 14:41",Course: Програмни езици,Logs,Log report viewed,The user with id '2' viewed the log report for the course with id '49'.,web,212.5.158.162
+"3/11/18, 11:33",Course: Програмни езици,Logs,Log report viewed,The user with id '2' viewed the log report for the course with id '49'.,web,212.5.158.162
+"3/11/18, 11:33",Course: Програмни езици,Logs,Log report viewed,The user with id '2' viewed the log report for the course with id '49'.,web,212.5.158.162
+"3/11/18, 11:33",Course: Програмни езици,Logs,Log report viewed,The user with id '2' viewed the log report for the course with id '49'.,web,212.5.158.162
+"3/11/18, 11:32",File: Лекция 1,File,Course module viewed,The user with id '2' viewed the 'resource' activity with course module id '708'.,web,212.5.158.162
+"3/11/18, 11:32",Course: Програмни езици,Activity report,Activity report viewed,The user with id '2' viewed the outline activity report for the course with id '49'.,web,212.5.158.162
